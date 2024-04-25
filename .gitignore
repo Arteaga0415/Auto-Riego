@@ -1,0 +1,10 @@
+# Ignore all Excel files
+*.xlsx
+*.xls
+*.xlsm
+*.xlsb
+
+# Ignore all Word files
+*.docx
+*.doc
+*.docm
