@@ -46,6 +46,6 @@ This project involves electrical components and water. Exercise caution and ensu
 ## Images
 
 <p align="center"> 
-  <img src="https://utfs.io/f/2f54125d-0678-4611-bb29-98994bed787b-ujtylh.JPG" width="600" height="530">
+  <img src="https://utfs.io/f/2f54125d-0678-4611-bb29-98994bed787b-ujtylh.JPG" width="600" height="480">
   <img src="https://utfs.io/f/a5e272b5-0f60-4421-b773-ed5e36ec6f2c-ujtylg.JPG" width="600" height="530">
 </p>
